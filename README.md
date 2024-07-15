@@ -1,5 +1,5 @@
 ## Hi there 👋
-***You've reached Dillon's<sub>(He/Him)</sub> Github Page***
+*You've reached Dillon's<sub>(He/Him)</sub> Github Page*
 ---
 If you'd like to reach out, feel free to contact me on (LinkedIn)[https://www.linkedin.com/in/dillon-w-carter/]
 
