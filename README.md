@@ -1,4 +1,10 @@
 ## Hi there 👋
+# You've reached Dillon's~(He/Him) Github Page
+---
+If you'd like to reach out, feel free to contact me on (LinkedIn)[https://www.linkedin.com/in/dillon-w-carter/]
+
+---
+
 
 <!--
 **PickleMustard/PickleMustard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
