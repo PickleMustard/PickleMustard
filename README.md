@@ -1,7 +1,7 @@
 ## Hi there 👋
 *You've reached Dillon's Github Page*
 ---
-If you'd like to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dillon-w-carter/)
+If you'd like to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dillon-w-carter/) or at my email [dillon.w.carter@gmail.com]
 
 ---
 I'm a Dev-ops engineer comfotable working in Python, Go, and C++. 
